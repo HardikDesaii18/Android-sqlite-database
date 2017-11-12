@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatabaseDemo</string>
+    <string name="title_activity_all_records">AllRecords</string>
+</resources>

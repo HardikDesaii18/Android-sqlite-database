@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/insert"
+        android:orderInCategory="100"
+        android:title="Insert record"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="200"
+        android:title="Delete record"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/update"
+        android:orderInCategory="300"
+        android:title="Update record"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/allrecords"
+        android:orderInCategory="300"
+        android:title="See all records"
+        app:showAsAction="never" />
+</menu>
